@@ -1,7 +1,7 @@
 
 ## 1. Quick Start
 
-You don't need a physical robot to run the following demos. 
+You don't need a physical robot to run the following demos. yeah
 
 ### 1.1. Walking demo in RVIZ:
 
